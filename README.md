@@ -1,3 +1,6 @@
+> [!NOTE]
+> This project is no longer maintained due to the deprecation of [GraphQLKit](https://github.com/david-swift/GraphQLKit).
+
 <p align="center">
   <img width="256" alt="LanguageGuesser Icon" src="Icons/AppIcon.png">
   <h1 align="center">LanguageGuesser</h1>
